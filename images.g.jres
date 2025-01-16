@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQBAAEAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "invisible"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA8P8PAAAAAPDv8v4A8A8ALy7+7v////AiLu/U7VL/8C8u79RNUv/w/i7v/01CD/Du7/8bTUIP8O7v8k7k/g/w7v7y1N7t/wDv/vJE3u3/AP/+/u5O/g8A8P//7w8AAAAAAPD/AAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "faceLeft"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPD/AAAAAPD//+8PAAAA//7+7g7wDwDv/vJE/v//8O7+8tRO/v/w7u/yTt7tD/Du7/8b3u0P8P4u7//t/g/wLy7v1E1S//AiLu/U7VL/AC8u/u7///8A8O/y/gDwDwAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "faceRight"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

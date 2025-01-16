@@ -1,0 +1,51 @@
+{
+    "name": "deadpool sim 2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Extra Effects": "github:alexszeto/extra-effects#493b8a2f7661f503c355e9c84724ff1c99f95d00"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.36",
+        "tag": "v1.12.36",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/e7b91fde1aac75ec4eac478e6a2d132891a06eb9",
+        "target": "1.12.58",
+        "pxt": "8.5.49",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#FF93C4",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#78DC52",
+        "#003FAD",
+        "#87F2FF",
+        "#CD1818",
+        "#A4839F",
+        "#5C406c",
+        "#E5CDC4",
+        "#91463d",
+        "#000000"
+    ]
+}
